@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>420316553185-ea58aedfe0l5cor3ccm85av265fhcrdp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.420316553185-ea58aedfe0l5cor3ccm85av265fhcrdp</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>420316553185-tft9khd5agdvu4pms44hpar0uf868qln.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDAV-yl0XW6J-vRSfZOPOhm5lzQImmo1c8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>420316553185</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.elkaramany.lango</string>
+	<key>PROJECT_ID</key>
+	<string>lango-a6a72</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lango-a6a72.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:420316553185:ios:0fad9f5d11e59c6066fca0</string>
+</dict>
+</plist>

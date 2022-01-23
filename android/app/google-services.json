@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "420316553185",
+    "project_id": "lango-a6a72",
+    "storage_bucket": "lango-a6a72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420316553185:android:5c0363bbce81187566fca0",
+        "android_client_info": {
+          "package_name": "com.lango"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420316553185-tft9khd5agdvu4pms44hpar0uf868qln.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lango",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "420316553185-p79vduq3468ogonm09dnkq31dnmnd9r8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsiqZC-52hL2s5uU5rrI7Bmf-l3WPre0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420316553185-p79vduq3468ogonm09dnkq31dnmnd9r8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "420316553185-ea58aedfe0l5cor3ccm85av265fhcrdp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.elkaramany.lango"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
